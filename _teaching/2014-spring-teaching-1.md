@@ -34,6 +34,13 @@ The main topics of **ISICDM 2019** will include (but not limited to):
 * **Prof. Hongbing Lu,   Fourth Military Medical University, China**
 * **Prof. Dazhe Zhao,    Northeastern University, China**
 
+## Scientific Committee
+
+* **Prof. Nicholas Ayache,  French Institute of Computer Science and Applied Mathematics, France**
+* **Prof. Dexing Kong,      Zhejiang University, China**
+* **Prof. Chunming Li,      University of Electronic Science and Technology of China, China**
+* **Prof. Shaohua Zhou,     Chinese Academy of Sciences, China**
+ 
 ## Call for Papers
 
 All the participants of **ISICDM 2019** are encouraged (but not required) to submit manuscripts. Abstract submissions within one page are also acceptable, which will not be published in the conference proceedings, but will be included in a conference program. The committee of **ISICDM 2019** will organize peer reviews for all the submitted papers. Some excellent accepted papers will be selected for oral presentations. **ISICDM 2019** will recommend a number of outstanding accepted papers to be extended as full journal papers and published in the following partner journals:
