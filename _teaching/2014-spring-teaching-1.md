@@ -4,9 +4,11 @@ collection: teaching
 type: "International Connference & Summer School"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Sofitel Xi'an"
-date: "August 22-28, 2019"
+date: 2019-08-22
 location: "Xi'an, China"
 ---
+
+The Third International Symposium on Image Computing and Digital Medicine (**ISICDM 2019**) will be held on Aug. 24-26, 2019 at Xi'an, China.
 
 ## Introduction
 
