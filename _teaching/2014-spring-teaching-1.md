@@ -41,13 +41,23 @@ The main topics of **ISICDM 2019** will include (but not limited to):
 * **Prof. Chunming Li**,      University of Electronic Science and Technology of China, China
 * **Prof. Shaohua Zhou**,     Chinese Academy of Sciences, China
  
-## Call for Papers
+## Invited Speakers
 
-All the participants of **ISICDM 2019** are encouraged (but not required) to submit manuscripts. Abstract submissions within one page are also acceptable, which will not be published in the conference proceedings, but will be included in a conference program. The committee of **ISICDM 2019** will organize peer reviews for all the submitted papers. Some excellent accepted papers will be selected for oral presentations. **ISICDM 2019** will recommend a number of outstanding accepted papers to be extended as full journal papers and published in the following partner journals:
+* **Prof. Zongben Xu**,     Xi’an Jiaotong University, China
+* **Prof. Aaron Fenster**,  Robarts Research Institute, Canada
+* **Prof. Terry Peters**,   Western University, Canada
+* **Prof. Xinfeng Liu**,    Jinling Hospital, Nanjing University, China
+* **Prof. Dinggang Shen**,  University of North Carolina at Chapel Hill, USA
+* **Prof. Xuecheng Tai**,   Bergen University, Norway
+* **Dr. Le Lu**,            Ping An Technology US Research Labs, USA
+* **Prof. Shaohua Zhou**,   Chinese Academy of Sciences, China
+* **Prof. Haiping Ren**,    National Institutes for Food and Drug Control, China
+* **Prof. Xiaochuan Pan**,  University of Chicago, USA
+* **Prof. Yike Guo**,       Imperial College London, UK
+* **Prof. Zhengrong Liang**, State University of New York at Stony Brook, USA
+* **Prof. Hanchuan Peng**,  Allen Institute for Brain Science, USA
+* **Prof. Ke Chen**,        University of Liverpool, UK
+* **Prof. Laurent D. Cohen**, University Paris Dauphine, France
+* **Prof. Kaichun Wu**,     First Affiliated Hospital of Air Force Medical University, China
+* **Prof. Kun Huang**,      Indiana University, USA
 
-* **Digital Medicine**
-* **Medical Image Analysis**
-* **Magnetic Resonance Imaging**
-* **Pattern Recognition Letters**
-
-At most six papers among all the submissions will be selected as the best papers by the committee of **ISICDM 2019**. Each best paper will be rewarded 1000 RMB in a special session of **ISICDM 2019**.
