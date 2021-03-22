@@ -1,9 +1,9 @@
 ---
 title: "International Forum on Frontiers of Intelligent Medical Image Analysis and Computing 2021"
 collection: teaching
-type: "Workshop"
+type: "International Forum, Long Talks and Lectures"
 permalink: /teaching/2015-spring-teaching-1
-venue: "Xidian University, Institute of Frontier Studies"
+venue: "Institute of Frontier Studies, Xidian University"
 date: 2021-03-01
 location: "Xi'an, China"
 ---
