@@ -19,7 +19,5 @@ I am serving in the program committee of top academic conferences such as MICCAI
 **Contact**
 ------
 
-Email: jyuan ("AT") xidian (dot) edu (dot) cn  
-School of Mathematics and Statistics   
-Xidian University 
-Xi'an, China
+* **Email:** jyuan ("AT") xidian (dot) edu (dot) cn  
+* ** Address:** School of Mathematics and Statistics, Xidian University, Xi'an, China
