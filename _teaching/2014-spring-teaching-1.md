@@ -41,7 +41,7 @@ The main topics of **ISICDM 2019** will include (but not limited to):
 * **Prof. Chunming Li**,      University of Electronic Science and Technology of China, China
 * **Prof. Shaohua Zhou**,     Chinese Academy of Sciences, China
  
-## Invited Speakers
+## Invited Plenary Speakers
 
 * **Prof. Zongben Xu**,     Xi’an Jiaotong University, China
 * **Prof. Aaron Fenster**,  Robarts Research Institute, Canada
