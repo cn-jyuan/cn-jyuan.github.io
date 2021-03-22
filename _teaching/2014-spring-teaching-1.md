@@ -67,4 +67,4 @@ Please follow this [link](http://www.imagecomputing.org/2019/index.html) to find
 
 ## Sponsors
 
-![Image](sponsor1.png). ![Image](sponsor15.png "2nd Sponsor"). ![Image](sponsor10.jpg "3rd Sponsor"). ![Image](sponsor33.png "4th Sponsor").
+![Image](sponsor10.jpg "3rd Sponsor"). ![Image](sponsor33.png "4th Sponsor"). ![Image](sponsor1.png). ![Image](sponsor15.png "2nd Sponsor"). 
