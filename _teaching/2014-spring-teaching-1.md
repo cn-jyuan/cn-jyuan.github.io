@@ -1,5 +1,5 @@
 ---
-title: "ISICDM 2019"
+title: "The Third International Symposium on Image Computing and Digital Medicine (ISICDM 2019)"
 collection: teaching
 type: "International Connference & Summer School"
 permalink: /teaching/2014-spring-teaching-1
@@ -8,8 +8,7 @@ dates: August 22-28, 2019
 location: "Xi'an, China"
 ---
 
-Introduction
-======
+## Introduction
 
 The Third International Symposium on Image Computing and Digital Medicine (ISICDM 2019) will be held on Aug. 24-26, 2019 at Xi'an, China. ISICDM 2019 is jointly sponsored by the International Society of Digital Medicine and Tianyuan Mathematical Center in Northwest China, and jointly hosted by Xidian University and Fourth Military Medical University. ISICDM 2019 aims to bring together active researchers in medicine, engineering, computer science, data analysis and mathematics to communicate on issues with common study interests, which builds the bridge for mutual understandings between clinicians, engineers, scientists and mathematicians.
 
