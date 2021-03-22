@@ -24,22 +24,22 @@ The main topics of **ISICDM 2019** will include (but not limited to):
 
 ## General Chairs
 
-* **Prof. James Duncan,  Yale University, USA**
-* **Prof. Shiyuan Liu,   Second Military Medical University, China**
-* **Prof. Terry Peters,  Western University, Canada**
+* **Prof. James Duncan**,  Yale University, USA
+* **Prof. Shiyuan Liu**,   Second Military Medical University, China
+* **Prof. Terry Peters**,  Western University, Canada
 
 ## Program Chairs
 
-* **Prof. Jing Yuan,     Xidian University, China**
-* **Prof. Hongbing Lu,   Fourth Military Medical University, China**
-* **Prof. Dazhe Zhao,    Northeastern University, China**
+* **Prof. Jing Yuan**,     Xidian University, China
+* **Prof. Hongbing Lu**,   Fourth Military Medical University, China
+* **Prof. Dazhe Zhao**,    Northeastern University, China
 
 ## Scientific Committee
 
-* **Prof. Nicholas Ayache,  French Institute of Computer Science and Applied Mathematics, France**
-* **Prof. Dexing Kong,      Zhejiang University, China**
-* **Prof. Chunming Li,      University of Electronic Science and Technology of China, China**
-* **Prof. Shaohua Zhou,     Chinese Academy of Sciences, China**
+* **Prof. Nicholas Ayache**,  French Institute of Computer Science and Applied Mathematics, France
+* **Prof. Dexing Kong**,      Zhejiang University, China
+* **Prof. Chunming Li**,      University of Electronic Science and Technology of China, China
+* **Prof. Shaohua Zhou**,     Chinese Academy of Sciences, China
  
 ## Call for Papers
 
