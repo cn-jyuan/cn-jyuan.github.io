@@ -67,4 +67,4 @@ Please follow this [link](http://www.imagecomputing.org/2019/index.html) to find
 
 ## Sponsors
 
-![Image](images/sponsor1.jpg "Sponsor DMC")
+![Image](images/sponsor1.png "Sponsor IDC")
