@@ -63,4 +63,4 @@ The main topics of **ISICDM 2019** will include (but not limited to):
 
 ## Website
 
-Details of **ISICDM 2019**, its associate summer school, challenges and sessions can be found at the [link](http://www.imagecomputing.org/2019/index.html).
+Please follow this [link](http://www.imagecomputing.org/2019/index.html) to find more details of **ISICDM 2019**, its associate summer school, challenges and programs.
