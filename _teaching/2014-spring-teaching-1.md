@@ -36,7 +36,7 @@ The main topics of **ISICDM 2019** will include (but not limited to):
 
 ## Scientific Committee
 
-* **Prof. Nicholas Ayache**,  French Institute of Computer Science and Applied Mathematics, France
+* **Prof. Nicholas Ayache**,  French Institute of Comp. Sci. and App. Math., France
 * **Prof. Dexing Kong**,      Zhejiang University, China
 * **Prof. Chunming Li**,      University of Electronic Science and Technology of China, China
 * **Prof. Shaohua Zhou**,     Chinese Academy of Sciences, China
