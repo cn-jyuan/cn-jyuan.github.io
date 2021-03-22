@@ -16,12 +16,12 @@ Intelligent medical image analysis and computing leads to an interdisciplinary s
 
 ## Invited Speakers
 
-* **Prof. Aaron Fenster**, Western University, Canada, IEEE/IOP/AAPM/SPIE/Canadian Academy of Health Sciences Fellow 
+* **Prof. Aaron Fenster**, Western University, Canada, Fellow of IEEE/IOP/AAPM/SPIE/Canadian Academy of Health Sciences
 * **Prof. Fabio Roli**, University of Cagliari, Italy, IEEE/IAPR Fellow
 * **Prof. Marcello Pepillo**, University of Venice, Italy, IEEE/IAPR Fellow
-* **Prof. Terry Peters**, Western University, Canada, IEEE/IOP/AAPM/SPIE/CAHS/Royal Society of Canada Fellow 
-* **Prof. Xuecheng Tai**, Baptist University, Hong Kong, SIAM Fellow, Director of Mathematics Department
-* **Prof. Sebastien Ourselin**, Kings College London, UK, MICCAI Fellow, Director of BME School
+* **Prof. Terry Peters**, Western University, Canada, Fellow of IEEE/IOP/AAPM/SPIE/CAHS/Royal Society of Canada 
+* **Prof. Xuecheng Tai**, Hong Kong Baptist University, China, SIAM Fellow
+* **Prof. Sebastien Ourselin**, Kings College London, UK, MICCAI Fellow, Director of BME School at KCL
 * **Prof. Zhengrong Liang**, State University of New York, IEEE Fellow 
 * **Prof. Michael Hintermueller**, Weierstrass Institute, Germany, SIAM Fellow, Director of Weierstrass Institute
 * **Prof. Ismail Ben Ayed**, ETS Montreal, Canada, Chair Professor of Medical Imaging and AI
@@ -30,5 +30,8 @@ Intelligent medical image analysis and computing leads to an interdisciplinary s
 
 * **Prof. Jing Yuan**, Xidian University, China
 * **Prof. Jijun Liu**, Southeastern University, China
-* **Prof. Xuecheng, Tai**, Hong Kong Baptist University, China
+* **Prof. Xuecheng Tai**, Hong Kong Baptist University, China
+* **Prof. Hongbing Lu**, Air Force Medical University, China
+* **Prof. Chunming Li**, University of Electronic Science and Technology of China, China
+* **Prof. Dexing Kong**, Zhejiang University, China
 
