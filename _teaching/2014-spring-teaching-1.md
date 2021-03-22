@@ -4,7 +4,7 @@ collection: teaching
 type: "International Connference & Summer School"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Sofitel Xi'an"
-date: August 22-28, 2019
+date: "August 22-28, 2019"
 location: "Xi'an, China"
 ---
 
