@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 2"
+title: "International Forum on Frontiers of Intelligent Medical Image Analysis and Computing 2021"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Xidian University, Institute of Frontier Studies"
+date: 2021-03-01
+location: "Xi'an, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+International Forum on Frontiers of Intelligent Medical Image Analysis and Computing 2021 will be organized online by the Research Center of Intelligent Medical Image Analysis and Computing, Institute of Frontier Studies in Xidian University at Xi'an, China.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+## Introduction
