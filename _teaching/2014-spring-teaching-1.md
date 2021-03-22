@@ -8,7 +8,7 @@ date: 2019-08-22
 location: "Xi'an, China"
 ---
 
-The Third International Symposium on Image Computing and Digital Medicine (**ISICDM 2019**) will be held on Aug. 24-26, 2019 at Xi'an, China.
+The International Symposium on Image Computing and Digital Medicine 2019 (**ISICDM 2019**) will be held on Aug. 24-26, 2019 at Xi'an, China, along with a summer school on Aug. 22-23, 27-28, 2019.
 
 ## Introduction
 
@@ -21,6 +21,18 @@ The main topics of **ISICDM 2019** will include (but not limited to):
 **Digital medicine:** Medical image analysis, MR image reconstruction, CT image reconstruction, radiomics, molecular imaging, big-data analysis in medicine, 3D visualization, intelligent target delineation of radiotherapy, digital pathology, bioinformatics, computational anatomy, machine/deep learning in medicine.
 
 **ISICDM 2019** will include keynote speeches, invited talks, oral presentations, posters, tutorials, panel discussions. Multiple special sessions will be organized for the following topics: advances in medical image analysis, advances in image reconstruction, problems and challenges in clinical medical imaging, machine learning and image processing, deep learning in medical imaging, mathematical methods in medical imaging, image segmentation and 3D visualization, interdisciplinary communication.
+
+## General Chairs
+
+* **Prof. James Duncan,  Yale University, USA**
+* **Prof. Shiyuan Liu,   Second Military Medical University, China**
+* **Prof. Terry Peters,  Western University, Canada**
+
+## Program Chairs
+
+* **Prof. Jing Yuan,     Xidian University, China**
+* **Prof. Hongbing Lu,   Fourth Military Medical University, China**
+* **Prof. Dazhe Zhao,    Northeastern University, China**
 
 ## Call for Papers
 
