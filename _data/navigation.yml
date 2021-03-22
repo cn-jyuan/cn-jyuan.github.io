@@ -5,7 +5,10 @@ main:
 
   - title: "Talks"
     url: /talks/    
-
+    
+  - title: "Activities"
+    url: /teaching/ 
+    
   - title: "Codes"
     url: /codes/  
     
