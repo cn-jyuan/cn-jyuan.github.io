@@ -12,7 +12,8 @@ International Forum on Frontiers of Intelligent Medical Image Analysis and Compu
 
 ## Introduction
 
-Intelligent medical image analysis and computing leads to an interdisciplinary science that combines modern medical image computing, artificial intelligence, and big data analysis. It is a combination of theoretical penetration, mutual absorption, and organic integration of science, engineering, and medicine. Fast-developing emerging frontier interdisciplinary disciplines formed by methods such as complementary methods and methods. With the rapid development of artificial intelligence and big data analysis technology in recent years, it has been successfully applied to all aspects of medical imaging data analysis and calculation, and the accuracy of clinical diagnosis and treatment has been greatly improved in the modern medical imaging assisted precision diagnosis and treatment. At the same time, the rapid development of contemporary new medical bioimaging methods and data generation technology, as well as the special needs of biomedical image data analysis, have put forward new challenges in the current fields of artificial intelligence, big data analysis and high-performance optimized computing. And research topics have led to major innovations and breakthroughs in these research fields. Funded by the introduction of high-end foreign experts from the Ministry of Science and Technology, Xidian University, Frontier Research Institute of Xidian University, Southeast University, Hong Kong Baptist University and other units jointly organized the Intelligent Medical Image Analysis and Computing Frontier Forum. A series of special lectures given by experts invited by the project:
+The studies of intelligent medical image analysis and computing becomes an interdisciplinary science of modern medical image computing, artificial intelligence and big-data analysis etc., and an emerging frontier subject integrating the art of mathematical and theoretical research, engineering development and medicine study by 
+an organic unity, penetration and complementation of different technical resources. With the rapid development of artificial intelligence and big data analysis technology in recent years, it has been successfully applied to all aspects of medical imaging data analysis and calculation, and the accuracy of clinical diagnosis and treatment has been greatly improved in the modern medical imaging assisted precision diagnosis and treatment. At the same time, the rapid development of contemporary new medical bioimaging methods and data generation technology, as well as the special needs of biomedical image data analysis, have put forward new challenges in the current fields of artificial intelligence, big data analysis and high-performance optimized computing. And research topics have led to major innovations and breakthroughs in these research fields. Funded by the introduction of high-end foreign experts from the Ministry of Science and Technology, Xidian University, Frontier Research Institute of Xidian University, Southeast University, Hong Kong Baptist University and other units jointly organized the Intelligent Medical Image Analysis and Computing Frontier Forum. A series of special lectures given by experts invited by the project:
 
 ## Invited Speakers
 
@@ -33,5 +34,10 @@ Intelligent medical image analysis and computing leads to an interdisciplinary s
 * **Prof. Xuecheng Tai**, Hong Kong Baptist University, China
 * **Prof. Hongbing Lu**, Air Force Medical University, China
 * **Prof. Chunming Li**, University of Electronic Science and Technology of China, China
+* **Prof. Shuiping Gou**, Xidian University, China
 * **Prof. Dexing Kong**, Zhejiang University, China
+* **Prof. Xiaoping Yang**, Nanjing University, China
+* **Prof. Jian Sun**, Xi'an Jiaotong University, China
+* **Prof. Xiaoying Tang**, Southern University of Science and Technology, China
+* **Prof. Shanshan Wang**, Shenzhen Institute of Advanced Research, Chinese Academy of Sciences, China
 
