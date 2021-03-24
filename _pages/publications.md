@@ -15,11 +15,17 @@ author_profile: true
 
 * Shengjie Xu, Jing Yuan, Bingsheng He, <ins>Proximal Augmented Lagrangian Method for Convex Optimization with Linear Inequality Constraints</ins>, **SIAM Journal on Optimization**, in submission, see also: http://www.optimization-online.org/DB\_HTML/2019/05/7204.html .
 
+* Yiguang Bai, Sanyang Liu, Qian Li, Jing Yuan, <ins>Cost-Aware Deployment of Check-in Nodes in Complex Networks</ins>, **IEEE Transactions on System, Man, and  Cybernetics**, accepted.
+
+* Xin Shenga, Jing Yuan, Bo Tao, Liman Liu, Wenbing Tao, <ins>Efficient Convex Optimization-Based Texture Mapping for Large-Scale 3D Scene Reconstruction</ins>, **Information Sciences**, accepted.
+
+* Meixiang Huang, Chongfei Huang, Dexing Kong, Jing Yuan, <ins>Fixed-Point Deformable U-Net to Pancreas CT Segmentation</ins>, **IPhysics in Medicine and Biology**, in submission.
+
 * Xiaopan Xu, Xi Zhang, Ismail Ben Ayed, Jing Yuan, Hongbing Lu, <ins>Quantitative Identification of Nonmuscle‐Invasive and Muscle‐Invasive Bladder Carcinomas: A Multiparametric MRI Radiomics Analysis</ins>, **Journal of Magnetic Resonance Imaging**, 49(5): 1489-1498 (2019).
 
 * Jing Yuan, Ismail Ben Ayed, Aaron Fenster, <ins>Fast Dual Optimization Methods with Applications to Medical Image Segmentation and Registration</ins>, **Big Data in Multimodal Medical Imaging**, CRC publisher 2019.
 
-* Hongpeng Sun, Xue-cheng Tai, Jing Yuan, <ins>Accelerated Dual Optimization to Multiphase Potts Model</ins>, **SIAM Journal on Imaging Science**, in submission.
+* Hongpeng Sun, Xue-cheng Tai, Jing Yuan, <ins>Accelerated Dual Splitting Methods to Image Segmentation</ins>, **SIAM Journal on Scientific Computing**, accepted.
 
 * Jing Yuan, Aaron Fenster, <ins>Modern Convex Optimization to Medical Image Analysis</ins>, 
 **Convex Optimization: Theory, Methods and Applications**, Nova Science Publishers 2019, also arXiv:1809.08734.
@@ -169,7 +175,11 @@ Using a Dual Approach</ins>, **International Journal of Computer Vision**, 92(1)
 
 ## Selected Conference Publications
 
-* Jose Dolz, Ismail Ben Ayed, Jing Yuan, Christian Desrosiers, <ins>HyperDense-Net: A densely connected CNN for multi-modal image segmentation</ins>, **ISBI 2018**
+* Imtiaz Masud Ziko, Jing Yuan, Eric Granger, Ismail Ben Ayed, <ins>Variational Fair Clustering</ins>, **AAAI 2020**.
+
+* Haoyun Liang, Yu Gong, Hoel Kervadec, Cheng Li, Jing Yuan, Shanshan Wang, <ins>Laplacian Pyramid-Based Complex Neural Network Learning for Fast MR Imaging</ins>, **MIDL 2020**.
+
+* Jose Dolz, Ismail Ben Ayed, Jing Yuan, Christian Desrosiers, <ins>HyperDense-Net: A densely connected CNN for multi-modal image segmentation</ins>, **ISBI 2018**.
   
 * J. Yuan, K. Yin, B. Bai, X.C. Feng, X.C. Tai, <ins>Bregman-Proximal Augmented Lagrangian Approach
 to Multiphase Image Segmentation</ins>, **SSVM 2017**.
