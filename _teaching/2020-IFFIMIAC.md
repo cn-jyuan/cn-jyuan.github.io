@@ -8,7 +8,7 @@ date: 2021-03-01
 location: "Xi'an, China"
 ---
 
-International Forum on Frontiers of Intelligent Medical Image Analysis and Computing 2021 will be organized online by **Xidian University, Southeastern University and Hong Kong Baptist University**.
+International Forum on Frontiers of Intelligent Medical Image Analysis and Computing 2021 will be organized online by **Xidian University, Southeastern University and Hong Kong Baptist University**. The Forum is supported by the Ministry of Science and Technology (Grant no. 20200027095).
 
 ## Introduction
 
