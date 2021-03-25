@@ -44,7 +44,8 @@ an organic unity of different technical resources. With rapid developments of ar
 ## Schedules and Contacts
 
 Schedules in details will be pronouced soon. All recorded videos will be uploaded on related websites.
-Please be free to contact Prof. Jing Yuan at cn.yuanjing (AT) yahoo (DOT) com, for more information.
+
+**Please be free to contact Prof. Jing Yuan at cn.yuanjing (AT) yahoo (DOT) com, for more information**.
 
 ---
 
