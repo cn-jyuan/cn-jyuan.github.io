@@ -43,4 +43,4 @@ an organic unity, penetration and complementation of different technical resourc
 
 ---
 
-![Image](xidian.png "3rd Sponsor")  ![Image](081431395820.jpg "4th Sponsor")  ![Image](浸会大学.png)  ![Image](14878233738299009.jpg)  ![Image](download.jpeg)  ![Image](nju.png)
+![Image](xidian.png "3rd Sponsor")  ![Image](081431395820.jpg "4th Sponsor")  ![Image](浸会大学.png)  ![Image](14878233738299009.jpg)  ![Image](download.jpeg)  ![Image](200px-Fmmu_edu_cn_seal.jpg)
