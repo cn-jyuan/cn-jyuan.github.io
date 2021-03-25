@@ -41,4 +41,6 @@ an organic unity, penetration and complementation of different technical resourc
 * **Prof. Xiaoying Tang**, Southern University of Science and Technology, China
 * **Prof. Shanshan Wang**, Shenzhen Institute of Advanced Research, Chinese Academy of Sciences, China
 
-![Image](xidian.png "3rd Sponsor"). ![Image](081431395820.jpg "4th Sponsor"). ![Image](浸会大学.png). 
+
+
+![Image](xidian.png "3rd Sponsor")  ![Image](081431395820.jpg "4th Sponsor")  ![Image](浸会大学.png). 
