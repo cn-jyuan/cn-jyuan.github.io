@@ -49,4 +49,4 @@ Schedules in details will be pronouced soon. All recorded videos will be uploade
 
 ---
 
-![Image](xidian.png "3rd Sponsor")  ![Image](081431395820.jpg "4th Sponsor")  ![Image](浸会大学.png)  ![Image](14878233738299009.jpg)  ![Image](download.jpeg)  ![Image](200px-Fmmu_edu_cn_seal.jpg)
+![Image](xidian.png "3rd Sponsor")  ![Image](081431395820.jpg "4th Sponsor")  ![Image](浸会大学.png)  ![Image](14878233738299009.jpg)  ![Image](download.jpeg)  ![Image](200px-Fmmu_edu_cn_seal.jpg)  ![Image](UESTC_logo.jpg)  ![Image](SUSTech.png) 
