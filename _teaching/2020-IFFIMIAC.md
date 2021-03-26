@@ -38,6 +38,7 @@ an organic unity of different technical resources. With rapid developments of ar
 * **Prof. Dexing Kong**, Zhejiang University, China
 * **Prof. Xiaoping Yang**, Nanjing University, China
 * **Prof. Jian Sun**, Xi'an Jiaotong University, China
+* **Prof. Chunlin Wu**, Nankai University, China
 * **Prof. Xiaoying Tang**, Southern University of Science and Technology, China
 * **Prof. Shanshan Wang**, Shenzhen Institute of Advanced Research, Chinese Academy of Sciences, China
 
