@@ -19,7 +19,7 @@ an organic unity of different technical resources. With rapid developments of ar
 
 * **Prof. Aaron Fenster**, Western University, Canada, Fellow of IEEE/IOP/AAPM/SPIE/Canadian Academy of Health Sciences
 * **Prof. Fabio Roli**, University of Cagliari, Italy, IEEE/IAPR Fellow
-* **Prof. Marcello Pepillo**, University of Venice, Italy, IEEE/IAPR Fellow
+* **Prof. Marcello Pelillo**, University of Venice, Italy, IEEE/IAPR Fellow
 * **Prof. Terry Peters**, Western University, Canada, Fellow of IEEE/IOP/AAPM/SPIE/CAHS/Royal Society of Canada 
 * **Prof. Xuecheng Tai**, Hong Kong Baptist University, China, SIAM Fellow
 * **Prof. Sebastien Ourselin**, Kings College London, UK, MICCAI Fellow, Director of BME School at KCL
