@@ -44,7 +44,10 @@ an organic unity of different technical resources. With rapid developments of ar
 
 ## Schedules and Contacts
 
-Schedules in details will be pronouced soon. All recorded videos will be uploaded on related websites.
+Schedules (all recorded videos will be uploaded on related websites):
+
+* **Prof. Michael Hintermueller**, Semi-smooth Newton methods: theory, numerical algorithms and applications (I)![image](https://user-images.githubusercontent.com/17481975/126023271-6b23f945-3cb2-4089-bb27-4ac43ccc8b66.png)
+
 
 **Please be free to contact Prof. Jing Yuan at cn.yuanjing (AT) yahoo (DOT) com, for more information**.
 
