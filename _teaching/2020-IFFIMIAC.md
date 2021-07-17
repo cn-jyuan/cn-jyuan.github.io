@@ -46,7 +46,9 @@ an organic unity of different technical resources. With rapid developments of ar
 
 Schedules (all recorded videos will be uploaded on related websites):
 
-* **Prof. Michael Hintermueller**, Semi-smooth Newton methods: theory, numerical algorithms and applications (I)![image](https://user-images.githubusercontent.com/17481975/126023271-6b23f945-3cb2-4089-bb27-4ac43ccc8b66.png)
+* **Prof. Michael Hintermueller** 
+  - Semi-smooth Newton methods: theory, numerical algorithms and applications (I): 15:30-16:30(Beijing time), July 19, 2021
+  - Semi-smooth Newton methods: theory, numerical algorithms and applications (II): 15:30-16:30(Beijing time), July 26, 2021
 
 
 **Please be free to contact Prof. Jing Yuan at cn.yuanjing (AT) yahoo (DOT) com, for more information**.
