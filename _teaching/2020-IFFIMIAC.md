@@ -54,6 +54,8 @@ Schedules (all recorded videos will be uploaded on related websites):
 * **Prof. Marcello Peilillo**
   - Graduate course (autumn semester 2021): Advanced Mathematical Theories and Methods with Applications to Machine Learning (32 class hours), start at the end of September 2021
 
+* **Prof. Fabio Roli**
+  - Graduate course (autumn semester 2021): Statistical Learning and Adversarial Machine Learning: Fundamentals and Advanced Concepts (32 class hours), start in September 2021
 
 **Please be free to contact Prof. Jing Yuan at cn.yuanjing (AT) yahoo (DOT) com, for more information**.
 
