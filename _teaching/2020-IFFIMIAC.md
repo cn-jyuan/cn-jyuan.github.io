@@ -62,6 +62,11 @@ Schedules (all recorded videos will be uploaded on related websites):
   - Conditional Random Field Losses for Weakly Supervised Segmentation: Beyond Gradient Descent: 15:30-16:30(Beijing time), August 6, 2021
   - Constrained Deep Networks: 15:30-16:30(Beijing time), August 9, 2021
 
+* **Prof. Aaron Fenster** 
+  - 3D Ultrasound Imaging (I): 20:00-21:00(Beijing time), August 23, 2021
+  - 3D Ultrasound Imaging (II): 20:00-21:00(Beijing time), September 7, 2021
+  - 3D Ultrasound Imaging (III): 20:00-21:00(Beijing time), September 21, 2021
+
 **Please be free to contact Prof. Jing Yuan at cn.yuanjing (AT) yahoo (DOT) com, for more information**.
 
 ---
