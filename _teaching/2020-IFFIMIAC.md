@@ -70,6 +70,7 @@ Schedules (all recorded videos will be uploaded on related websites):
 * **Prof. Ming-Jun Lai** 
   - Multivariate Splines for Medical Data Analysis: 20:00-21:00(Beijing time), September 9, 2021
 
+
 **Please be free to contact Prof. Jing Yuan at cn.yuanjing (AT) yahoo (DOT) com, for more information**.
 
 ---
