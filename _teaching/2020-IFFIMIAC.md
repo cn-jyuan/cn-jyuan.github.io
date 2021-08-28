@@ -67,6 +67,9 @@ Schedules (all recorded videos will be uploaded on related websites):
   - 3D Ultrasound Imaging (II): 20:00-21:00(Beijing time), September 7, 2021
   - 3D Ultrasound Imaging (III): 20:00-21:00(Beijing time), September 21, 2021
 
+* **Prof. Ming-Jun Lai** 
+  - Multivariate Splines for Medical Data Analysis: 20:00-21:00(Beijing time), September 9, 2021
+
 **Please be free to contact Prof. Jing Yuan at cn.yuanjing (AT) yahoo (DOT) com, for more information**.
 
 ---
