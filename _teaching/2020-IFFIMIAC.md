@@ -47,8 +47,8 @@ an organic unity of different technical resources. With rapid developments of ar
 Schedules (all recorded videos will be uploaded on related websites):
 
 * **Prof. Michael Hintermueller** 
-  - Semi-smooth Newton methods: theory, numerical algorithms and applications (I): 15:30-16:30(Beijing time), July 19, 2021
-  - Semi-smooth Newton methods: theory, numerical algorithms and applications (II): 15:30-16:30(Beijing time), July 26, 2021
+  - Semi-smooth Newton methods: theory, numerical algorithms and applications (I): 15:30-16:30 (Beijing time), July 19, 2021
+  - Semi-smooth Newton methods: theory, numerical algorithms and applications (II): 15:30-16:30 (Beijing time), July 26, 2021
   - Graduate course (autumn semester 2021): Advanced Topics in Optimization (32 class hours), start in October 2021
 
 * **Prof. Marcello Peilillo**
@@ -62,17 +62,21 @@ Schedules (all recorded videos will be uploaded on related websites):
   - Graduate course (autumn semester 2021): Statistical Learning and Adversarial Machine Learning: Fundamentals and Advanced Concepts (32 class hours), start in September 2021
 
 * **Prof. Ismail Ben Ayed** 
-  - Learning from limited supervision: 15:30-16:30(Beijing time), August 3, 2021
-  - Conditional Random Field Losses for Weakly Supervised Segmentation: Beyond Gradient Descent: 15:30-16:30(Beijing time), August 6, 2021
-  - Constrained Deep Networks: 15:30-16:30(Beijing time), August 9, 2021
+  - Learning from limited supervision: 15:30-16:30 (Beijing time), August 3, 2021
+  - Conditional Random Field Losses for Weakly Supervised Segmentation: Beyond Gradient Descent: 15:30-16:30 (Beijing time), August 6, 2021
+  - Constrained Deep Networks: 15:30-16:30 (Beijing time), August 9, 2021
 
 * **Prof. Aaron Fenster** 
-  - 3D Ultrasound Imaging (I): 20:00-21:00(Beijing time), August 23, 2021
-  - 3D Ultrasound Imaging (II): 20:00-21:00(Beijing time), September 7, 2021
-  - 3D Ultrasound Imaging (III): 20:00-21:00(Beijing time), September 21, 2021
+  - 3D Ultrasound Imaging (I): 20:00-21:00 (Beijing time), August 23, 2021
+  - 3D Ultrasound Imaging (II): 20:00-21:00 (Beijing time), September 7, 2021
+  - 3D Ultrasound Imaging (III): 20:00-21:00 (Beijing time), September 21, 2021
+
+* **Prof. Terry Peters** 
+  - Mixed Reality for Medical Interventions: 20:00-21:00 (Beijing time), October 18, 2021
+  - Image-guided Therapy – Development and Applications: 20:00-21:00 (Beijing time), October 21, 2021
 
 * **Prof. Ming-Jun Lai** 
-  - Multivariate Splines for Medical Data Analysis: 20:00-21:00(Beijing time), September 9, 2021
+  - Multivariate Splines for Medical Data Analysis: 20:00-21:00 (Beijing time), September 9, 2021
 
 
 **Please be free to contact Prof. Jing Yuan at cn.yuanjing (AT) yahoo (DOT) com, for more information**.
