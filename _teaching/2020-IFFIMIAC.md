@@ -79,6 +79,14 @@ Schedules (all recorded videos will be uploaded on related websites):
   - Multivariate Splines for Medical Data Analysis: 20:00-21:00 (Beijing time), September 9, 2021
 
 
+* **Prof. Xue-Cheng Tai** 
+  - A Color Elastica Model for Vector-Valued Image Regularization: 15:30-16:30 (Beijing time), November 1, 2021
+
+* **Prof. Raymond Chan** 
+  - Reconstruction of the High Resolution Wavefront in Ground-based Astronomy: 15:30-16:30 (Beijing time), November 30, 2021
+
+
+
 **Please be free to contact Prof. Jing Yuan at cn.yuanjing (AT) yahoo (DOT) com, for more information**.
 
 ---
