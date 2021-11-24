@@ -81,6 +81,7 @@ Schedules (all recorded videos will be uploaded on related websites):
 
 * **Prof. Xue-Cheng Tai** 
   - A Color Elastica Model for Vector-Valued Image Regularization: 15:30-16:30 (Beijing time), November 1, 2021
+  - Graph Model for High Dimensional Data Classification: 15:30-16:30 (Beijing time), November 24, 2021
 
 * **Prof. Raymond Chan** 
   - Reconstruction of the High Resolution Wavefront in Ground-based Astronomy: 15:30-16:30 (Beijing time), November 30, 2021
