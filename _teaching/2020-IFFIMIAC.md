@@ -13,7 +13,7 @@ International Forum on Frontiers of Intelligent Medical Image Analysis and Compu
 ## Introduction
 
 The studies of intelligent medical image analysis and computing becomes an interdisciplinary science of modern medical image computing, artificial intelligence and big-data analysis etc., and an emerging frontier subject integrating the art of mathematical and theoretical research, engineering development and medicine study by 
-an organic unity of different technical resources. With rapid developments of artificial intelligence and data analysis during recent years, AI and its related technologies have been successfully applied into all aspects of medical image analysis and computing, which largely improve the accuracy of clinical diagnosis and treatment by modern medical image-assisted diagnosis and surgery. At the same time, new medical imaging methods result in vast volume of data and motivate necessities of medical big-data analysis, which leads to new challenges in AI, big-data analysis and high-performance optimization computing, and encourages innovations and breakthroughs in both theory and technology. **The Intelligent Medical Image Analysis and Computing Frontier Forum 2021 is funded by the Ministry of Science and Technology (Grant no. 20200027095), and organized jointly by Xidian University / Frontier Research Institute of Xidian University, Southeast University, Hong Kong Baptist University and other collaborated universities**. The forum includes a series of online talks, lectures and short courses presented by the invited speakers.
+the unity of different technical resources. With rapid developments of artificial intelligence and data analysis during recent years, AI and its related technologies have been successfully applied into all aspects of medical image analysis and computing, which largely improve the accuracy of clinical diagnosis and treatment by modern medical image-assisted diagnosis and surgery. At the same time, new medical imaging methods result in vast volume of data and motivate necessities of medical big-data analysis, which leads to new challenges in AI, big-data analysis and high-performance optimization computing, and encourages innovations and breakthroughs in both theory and technology. **The Intelligent Medical Image Analysis and Computing Frontier Forum 2021 is funded by the Ministry of Science and Technology (Grant no. 20200027095), and organized jointly by Xidian University / Frontier Research Institute of Xidian University, Southeast University, Hong Kong Baptist University and other collaborated universities**. The forum includes a series of online talks, lectures and short courses presented by the invited speakers.
 
 ## Invited Speakers
 
@@ -26,6 +26,7 @@ an organic unity of different technical resources. With rapid developments of ar
 * **Prof. Zhengrong Liang**, State University of New York, IEEE Fellow 
 * **Prof. Michael Hintermueller**, Weierstrass Institute, Germany, SIAM Fellow, Director of Weierstrass Institute
 * **Prof. Ismail Ben Ayed**, ETS Montreal, Canada, Chair Professor of Medical Imaging and AI
+* **Prof. Xavier Bresson**, National University of Singapore, Singapore
 
 ## Organization and Academic Committee
 
@@ -86,6 +87,13 @@ Schedules (all recorded videos will be uploaded on related websites):
 * **Prof. Raymond Chan** 
   - Reconstruction of the High Resolution Wavefront in Ground-based Astronomy: 15:30-16:30 (Beijing time), November 30, 2021
 
+* **Prof. Xavier Bresson** 
+  - Graph Neural Networks – Part 1: Spectral Techniques: 16:30-17:30 (Beijing time), December 13, 2021
+  - Graph Neural Networks – Part 2: Spatial Techniques: 16:30-17:30 (Beijing time), December 14, 2021
+  - Benchmarking Graph Neural Networks: 16:30-17:30 (Beijing time), December 15, 2021
+  - Graph Neural Networks with Learnable Structural and Positional Representations: 16:30-17:30 (Beijing time), December 16, 2021
+  - Graph Convolutional Neural Networks for Molecule Generation: 16:30-17:30 (Beijing time), December 17, 2021
+  - Learning to Solve the Traveling Salesman Problem: 16:30-17:30 (Beijing time), December 20, 2021
 
 
 **Please be free to contact Prof. Jing Yuan at cn.yuanjing (AT) yahoo (DOT) com, for more information**.
