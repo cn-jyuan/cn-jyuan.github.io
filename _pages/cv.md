@@ -24,7 +24,10 @@ Education
   
 Work experience
 ======
-
+* <ins>Jan. 2022 - now</ins>: Distinguished Professor
+  * [College of Mathematical Medicine](http://slyx.zjnu.edu.cn/), [Zhejiang Normal University, China](http://www.zjnu.edu.cn/)
+  * Researches: mathematical theries and computational methods in medical imaging and image-guided diagnosis \& surgery
+  
 * <ins>Aug. 2016 - now</ins>: Professor
   * [School of Mathematics and Statistics](http://math.xidian.edu.cn/), [Xidian University, China](http://www.xidian.edu.cn/)
   * Researches: new theries and methods in optimization and variational analysis, with applications to computer vision and machine learning
