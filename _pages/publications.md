@@ -12,20 +12,27 @@ author_profile: true
 {% include base_path %}
 
 ## Journal Publications
+* Xinyi Li, Jing Yuan, Xuecheng Tai, Sanyang Liu, <ins>Efficient Convex Optimization for Non-Convex Non-Smooth Image Restoration</ins>, **Journal of Scientific Computing**, accepted 2024
+
+* Kang Chen, Dexing Kong, Jing Yuan, Yili Hu, Jianping Li, Jijie Ma, Jianming Wen, <ins>Asymmetric-backed multi-frequency ultrasonic transducer for conformal tumor ablation</ins>, **IEEE Trans. on Biomed. Eng.**, online 2024
+
+* Chongfei Huang, Ke Chen, Meixiang Huang, Dexing Kong, Jing Yuan, <ins>Topology-Preserving Image Registration with Novel Multi-Dimensional Beltrami Regularization</ins>, **Applied Mathematical Modelling**, online 2023
+
+* Hongpeng Sun, Xue-cheng Tai, Jing Yuan, <ins>Variational Image Motion Estimation by Preconditioned Dual Optimization</ins>, **Inverse Problems & Imaging**, 17(2), 2023
 
 * Shengjie Xu, Jing Yuan, Bingsheng He, <ins>Proximal Augmented Lagrangian Method for Convex Optimization with Linear Inequality Constraints</ins>, **SIAM Journal on Optimization**, in submission, see also: http://www.optimization-online.org/DB\_HTML/2019/05/7204.html .
 
-* Yiguang Bai, Sanyang Liu, Qian Li, Jing Yuan, <ins>Cost-Aware Deployment of Check-in Nodes in Complex Networks</ins>, **IEEE Transactions on System, Man, and  Cybernetics**, accepted.
+* Yiguang Bai, Sanyang Liu, Qian Li, Jing Yuan, <ins>Cost-Aware Deployment of Check-in Nodes in Complex Networks</ins>, **IEEE Transactions on System, Man, and  Cybernetics**, Pages 1-13, April 2021.
 
-* Xin Shenga, Jing Yuan, Bo Tao, Liman Liu, Wenbing Tao, <ins>Efficient Convex Optimization-Based Texture Mapping for Large-Scale 3D Scene Reconstruction</ins>, **Information Sciences**, accepted.
+* Xin Sheng, Jing Yuan, Bo Tao, Liman Liu, Wenbing Tao, <ins>Efficient Convex Optimization-Based Texture Mapping for Large-Scale 3D Scene Reconstruction</ins>, **Information Sciences**, Volume 556:143-159, 2020.
 
-* Meixiang Huang, Chongfei Huang, Dexing Kong, Jing Yuan, <ins>Fixed-Point Deformable U-Net to Pancreas CT Segmentation</ins>, **IPhysics in Medicine and Biology**, in submission.
+* Meixiang Huang, Chongfei Huang, Dexing Kong, Jing Yuan, <ins>Fixed-Point Deformable U-Net to Pancreas CT Segmentation</ins>, **Physics in Medicine and Biology**, in submission.
 
 * Xiaopan Xu, Xi Zhang, Ismail Ben Ayed, Jing Yuan, Hongbing Lu, <ins>Quantitative Identification of Nonmuscle‐Invasive and Muscle‐Invasive Bladder Carcinomas: A Multiparametric MRI Radiomics Analysis</ins>, **Journal of Magnetic Resonance Imaging**, 49(5): 1489-1498 (2019).
 
 * Jing Yuan, Ismail Ben Ayed, Aaron Fenster, <ins>Fast Dual Optimization Methods with Applications to Medical Image Segmentation and Registration</ins>, **Big Data in Multimodal Medical Imaging**, CRC publisher 2019.
 
-* Hongpeng Sun, Xue-cheng Tai, Jing Yuan, <ins>Accelerated Dual Splitting Methods to Image Segmentation</ins>, **SIAM Journal on Scientific Computing**, accepted.
+* Hongpeng Sun, Xue-cheng Tai, Jing Yuan, <ins>Accelerated Dual Splitting Methods to Image Segmentation</ins>, **SIAM Journal on Scientific Computing**, 43(2):B455–B478, 2021.
 
 * Jing Yuan, Aaron Fenster, <ins>Modern Convex Optimization to Medical Image Analysis</ins>, 
 **Convex Optimization: Theory, Methods and Applications**, Nova Science Publishers 2019, also arXiv:1809.08734.
